@@ -76,14 +76,14 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="FSharpx.TypeProviders.Xaml">
-      <HintPath>..\..\..\..\..\Source\Repos\fsharp-softrenderer\SoftRenderer\packages\FSharpx.TypeProviders.Xaml.1.8.41\lib\40\FSharpx.TypeProviders.Xaml.dll</HintPath>
+      <HintPath>..\SoftRenderer\packages\FSharpx.TypeProviders.Xaml.1.8.41\lib\40\FSharpx.TypeProviders.Xaml.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="SharpDX">
-      <HintPath>..\..\..\..\..\Source\Repos\fsharp-softrenderer\SoftRenderer\packages\SharpDX.2.5.0\lib\net40\SharpDX.dll</HintPath>
+      <HintPath>..\SoftRenderer\packages\SharpDX.2.5.0\lib\net40\SharpDX.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
